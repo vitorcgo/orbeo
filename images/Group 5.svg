@@ -1,0 +1,18 @@
+<svg width="463" height="199" viewBox="0 0 463 199" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_i_73_2)">
+<path d="M0 20C0 8.9543 8.95431 0 20 0H430.046C445.055 0 454.716 15.9183 447.787 29.2327L415.8 90.6991C412.776 96.5105 412.789 103.435 415.836 109.234L447.604 169.698C454.602 183.015 444.943 199 429.899 199H20C8.95431 199 0 190.046 0 179V20Z" fill="#EFEFEF"/>
+</g>
+<ellipse cx="404.5" cy="31" rx="13.5" ry="13" fill="#7C4285"/>
+<defs>
+<filter id="filter0_i_73_2" x="0" y="0" width="450.073" height="203" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_73_2"/>
+</filter>
+</defs>
+</svg>

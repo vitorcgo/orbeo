@@ -1,0 +1,114 @@
+@media screen and (max-width: 940px) {
+
+    svg {
+        width: 40px;
+        padding-bottom: 5px;
+    }
+
+    .faqid-ex {
+        display: none;
+    }
+
+
+    .principal {
+        flex-direction: column;
+    }
+
+    .logo-black {
+        width: 90px;
+    }
+
+    .work p {
+        font-size: 15px;
+    }
+
+    .listabar {
+        font-size: 14px;
+        gap: 14px;
+    }
+
+    .principal-texto {
+        padding-top: 10%;
+        line-height: 40px;
+    }
+
+    .principal-texto h1 {
+        font-size: 50px;
+    }
+    
+    .principal-texto h2 {
+        font-size: 25px;
+    }
+
+    .img-1 {
+        width: 100%;
+    }
+
+    .sobre-nos {
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .work {
+        padding: 100px;
+    }
+
+   .sobre-nos p, span { 
+    padding-top: 13px;
+    text-align: center;
+    font-size: 15px;
+    width: 100%;
+   }
+
+   .faq {
+    padding-top: 50px;
+    display: none;
+   }
+
+
+   .quadrados {
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    padding-top: 0;
+    width: 50%;
+   }
+
+   .contato-title {
+    padding-top: 150px;
+   }
+
+   .envolto-2 {
+    display: none;
+   }
+
+   .envolto {
+    max-width: 98%;
+   }
+
+   .orbeo-logo-contato {
+    padding-left: 26%;
+   }
+
+   .formulario-text {
+    font-size: 20px;
+    max-width: 50%;
+    margin-left: 25%;
+   }
+
+   .input-1 {
+    width: 100%;
+    max-width: 79%;
+    margin-left: 60px;
+   }
+
+   .input-2 {
+    max-width: 80%;
+    margin-left: 10%;
+   }
+
+   .submit {
+    max-width: 80%;
+    margin-left: 10%;
+   }
+}
